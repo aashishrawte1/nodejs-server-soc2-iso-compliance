@@ -1,0 +1,28 @@
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-01T13:44:30.992Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-01T13:44:31.660Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-01T13:44:32.141Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-01T14:06:18.247Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-01T14:06:18.841Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-01T14:06:36.757Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-01T14:06:37.215Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-01T14:06:59.796Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-01T14:07:00.278Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T06:09:42.997Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T06:09:43.745Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T06:39:54.823Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T06:39:57.682Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T06:39:58.276Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:00:06.792Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:00:07.753Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:56:56.961Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:56:57.877Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:56:58.534Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:56:59.004Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:56:59.316Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:56:59.760Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:57:00.900Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:57:01.368Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:57:05.005Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:57:05.503Z"}
+{"level":"info","message":"server is running on port 3000","service":"user-service","timestamp":"2024-08-02T07:57:08.775Z"}
+{"level":"info","message":"Connected to database successfully","service":"user-service","timestamp":"2024-08-02T07:57:09.279Z"}
